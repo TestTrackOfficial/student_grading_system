@@ -1,0 +1,16 @@
+{
+    "name": "canete/gs",
+    "description": "Basic Student Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Canete\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Canete J."
+        }
+    ],
+    "require": {}
+}
