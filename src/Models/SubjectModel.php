@@ -5,11 +5,6 @@ namespace Canete\Gs\Models;
 use Canete\Gs\Core\Crud;
 
 class SubjectModel implements Crud {
-  // add properties
-
-  // subject name
-  // description
-  
 
   public function create()
   {
